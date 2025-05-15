@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "xin chào"
+  },
+  {
+    "role": "assistant",
+    "content": "Chào bạn! Rất vui được hỗ trợ bạn về thông tin tuyển sinh của Trường Đại học Khoa học Tự nhiên, ĐHQGHN.\n\nNhư thông tin bạn cung cấp, hiện tại **ngành Toán học và ngành Khoa học dữ liệu của trường chưa có chương trình đào tạo Chất lượng cao (CLC)**.\n\n*   **Ngành Toán học:** Có chương trình đào tạo **Chuẩn** và **Tài năng**.\n*   **Ngành Khoa học dữ liệu:** Chỉ có chương trình đào tạo **Chuẩn**.\n\nBạn có câu hỏi cụ thể nào khác về tuyển sinh của trường, hoặc các ngành học này không? Tôi sẵn lòng giúp đỡ!\n"
+  }
+]

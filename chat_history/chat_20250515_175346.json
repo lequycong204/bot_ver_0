@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "bạn là ai"
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi là một trợ lý ảo được trang bị kiến thức về tuyển sinh của trường Đại học Khoa học Tự nhiên (ĐHQGHN). Tôi có thể cung cấp thông tin dựa trên các quy định tuyển sinh hiện hành của ĐHQGHN, ví dụ như điều kiện tối thiểu để xét tuyển bằng các chứng chỉ quốc tế SAT/ACT. Tuy nhiên, tôi không thể cung cấp thông tin về điểm trúng tuyển cụ thể cho từng ngành vì điểm này phụ thuộc vào hồ sơ của thí sinh và chỉ tiêu của từng ngành trong năm xét tuyển. Để có thông tin chính xác về điểm trúng tuyển, bạn cần theo dõi Đề án tuyển sinh hàng năm của trường.\n"
+  }
+]
