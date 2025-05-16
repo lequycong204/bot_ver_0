@@ -17,4 +17,3 @@ documents = [
 # vector store
 vectorstore = FAISS.from_documents(documents, embedding_model)
 vectorstore.save_local(vectodb_path)
-
